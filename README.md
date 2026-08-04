@@ -51,3 +51,6 @@ The objective of this project is to transform raw sales data into meaningful bus
 
 ## 📸 Dashboard Preview
 
+```markdown
+[Sales Dashboard](images/dashboard_1.png, dashboard_2.png, bar_chart.png, column_chart.png, pie_chart.png, tree_map.png)
+```
